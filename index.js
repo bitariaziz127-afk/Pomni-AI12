@@ -12,11 +12,11 @@ const client = new Client({
   // Owner 1
     { name: "VA", lid: "247579682029763@lid", jid: "212699931378@s.whatsapp.net" },
   // Owner 2
-    { name: "emam", lid: "221307316789354@lid", jid: "212723324727@s.whatsapp.net" },
+    { name: "emam", lid: "221307316789354@lid", jid: "212699931378@s.whatsapp.net" },
   // Owner 3
-    { name: "Sukuna", jid: "201033024135@s.whatsapp.net", lid: "50414477168824@lid" },
+    { name: "Sukuna", jid: "201033024135@s.whatsapp.net", lid: "212699931378@lid" },
   // Owner 4 
-   { name: "عمورتي", jid: "201050079089@s.whatsapp.net", lid: "51664513925368@lid" }
+   { name: "عمورتي", jid: "201050079089@s.whatsapp.net", lid: "212699931378@lid" }
   ],
   settings: { noWelcome: false },
   commandsPath: './plugins'
@@ -35,7 +35,7 @@ const { config } = client;
 config.info = { 
   nameBot: "♡ 𝙋𝙊𝙈𝙉𝙄 🎪 〈", 
   nameChannel: "𝐕𝐈𝐈7 ~ 𝐂𝐡𝐚𝐧𝐧𝐞𝐥 🕷️", 
-  idChannel: "120363225356834044@newsletter",
+  idChannel: "120363429709023359@newsletter",
   urls: {
     repo: "https://github.com/deveni0/Pomni-AI",
     api: "https://emam-api.web.id",
